@@ -1,6 +1,6 @@
 {
   "name": "pco-tokens",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A simple tool to create JWT's based on Planning Center Online data for email-based login.",
   "main": "index.js",
   "license": "SEE LICENSE IN LICENSE.md",

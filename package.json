@@ -3,14 +3,15 @@
   "version": "0.1.0",
   "description": "A simple tool to create JWT's based on Planning Center Online data for email-based login.",
   "main": "index.js",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Renddslow/pco-tokens"
+  },
   "dependencies": {
     "got": "^9.6.0",
     "isemail": "^3.2.0",
     "qs": "^6.6.0"
-  },
-  "scripts": {
-    "test": "node test.js"
   },
   "peerDependencies": {
     "jsonwebtoken": "^8.5.1"
